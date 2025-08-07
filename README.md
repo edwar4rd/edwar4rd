@@ -8,6 +8,6 @@
 - 📫 How to reach me: **(my username)@gmail.com**
 
 <p align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwar4rd)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwar4rd)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
